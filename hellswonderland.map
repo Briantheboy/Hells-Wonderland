@@ -1739,3 +1739,38 @@
 "classname" "weapon_rocketlauncher"
 "origin" "-288 688 192"
 }
+// entity 17
+{
+"classname" "item_health"
+"origin" "-320 -256 256"
+}
+// entity 18
+{
+"classname" "item_shells"
+"origin" "-1120 976 0"
+}
+// entity 19
+{
+"classname" "item_rockets"
+"origin" "-1120 928 0"
+}
+// entity 20
+{
+"classname" "item_spikes"
+"origin" "-1168 944 0"
+}
+// entity 21
+{
+"classname" "item_spikes"
+"origin" "-1168 576 0"
+}
+// entity 22
+{
+"classname" "item_shells"
+"origin" "-1120 608 0"
+}
+// entity 23
+{
+"classname" "item_rockets"
+"origin" "-1120 560 0"
+}
