@@ -1694,49 +1694,12 @@
 // entity 8
 {
 "classname" "info_player_deathmatch"
-"origin" "-928 1504 24"
-"angle" "285"
+"origin" "-976 1456 24"
+"angle" "45"
 }
 // entity 9
 {
 "classname" "info_player_deathmatch"
 "origin" "384 1504 24"
 "angle" "285"
-}
-// entity 10
-{
-"classname" "info_player_deathmatch"
-"origin" "384 112 24"
-"angle" "240"
-}
-// entity 11
-{
-"classname" "info_player_deathmatch"
-"origin" "-912 112 24"
-"angle" "105"
-}
-// entity 12
-{
-"classname" "weapon_lightning"
-"origin" "-1200 1200 0"
-}
-// entity 13
-{
-"classname" "weapon_rocketlauncher"
-"origin" "48 1840 0"
-}
-// entity 14
-{
-"classname" "weapon_nailgun"
-"origin" "-624 -208 0"
-}
-// entity 15
-{
-"classname" "weapon_supershotgun"
-"origin" "96 -208 0"
-}
-// entity 16
-{
-"classname" "weapon_rocketlauncher"
-"origin" "-288 688 192"
 }
