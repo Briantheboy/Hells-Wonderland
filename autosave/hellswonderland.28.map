@@ -1991,7 +1991,7 @@
 // entity 25
 {
 "classname" "path_corner"
-"origin" "844 1274 813.823"
+"origin" "824 1272 813.823"
 "targetname" "path2"
 "target" "path1"
 "spawnflags" "1"
@@ -2000,7 +2000,7 @@
 // entity 26
 {
 "classname" "path_corner"
-"origin" "844 1272 585.823"
+"origin" "824 1270 585.823"
 "targetname" "path1"
 "target" "path2"
 "wait" "1"
