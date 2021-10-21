@@ -4,7 +4,7 @@
 {
 "mapversion" "220"
 "classname" "worldspawn"
-"wad" "../wads/prototype_1_3.wad;../wads/hipnotic.wad"
+"wad" "../wads/prototype_1_3.wad"
 "_phong" "1"
 // brush 0
 {
